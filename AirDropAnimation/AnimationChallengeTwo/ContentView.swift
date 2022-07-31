@@ -2,8 +2,6 @@
 //  ContentView.swift
 //  AnimationChallengeTwo
 //
-//  Created by QBuser on 30/07/22.
-//
 
 import SwiftUI
 

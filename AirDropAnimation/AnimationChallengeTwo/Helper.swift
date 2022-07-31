@@ -2,8 +2,6 @@
 //  Helper.swift
 //  AnimationChallengeTwo
 //
-//  Created by QBuser on 30/07/22.
-//
 
 import Foundation
 import SwiftUI
